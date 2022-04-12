@@ -2,8 +2,8 @@
 
 ## Regression Testing of Machine Learning Classifiers
 Project submission by: Ishan Vyas
-Supervised by 
-Dr. Frank Maurer
+
+Supervised by: Dr. Frank Maurer
 
 ## Synopsis
 There is a lack of regression testing frameworks for machine learning classifiers. Regression testing for software ensures that modifications to the software do not introduce new bugs and flaws to the code. Similarly, regression testing for machine learning classifiers is essential as it would ensure that new changes to the algorithm do not introduce behavioral changes to the system. By building on evidence from existing testing methods for machine learning systems, the research develops a regression testing framework. By using regression testing for machine learning systems, we can build better-tested systems and add a level of confidence to our development.
